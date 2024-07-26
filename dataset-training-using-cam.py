@@ -32,7 +32,7 @@ while count< 50:
         break
 webcam.release()
 cv2.destroyAllWindows()
-    
+
 
 
 
